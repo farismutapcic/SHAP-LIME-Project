@@ -1,6 +1,6 @@
 # SHAP vs. LIME: An Empirical Comparison of Post-Hoc Explainability Methods
 
-To go to the app directly, click **[here](YOUR_STREAMLIT_APP_LINK)**.
+To go to the app directly, click **[here]([YOUR_STREAMLIT_APP_LINK](https://farismutapcic-shap-lime-project-shap-lime-projectapp-ska8py.streamlit.app/))**.
 
 An empirical comparison of two popular post-hoc explainability methods, **SHAP** and **LIME**, using the Breast Cancer Wisconsin dataset. The project investigates whether the methods agree on important features, how stable their explanations are under small input changes, their computational cost, and whether the findings generalize across different machine-learning models.
 

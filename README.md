@@ -253,7 +253,17 @@ The app allows users to:
 
 ## Reproducing
 
-Clone the repository:
+The easiest way to reproduce the results is to run the notebook directly in **Google Colab**. This avoids the need to clone the repository, create a virtual environment, or manually configure Python on your computer.
+
+The notebook can also be run locally in another Jupyter environment if preferred.
+
+### Google Colab
+
+Simply open the notebook in **Google Colab** and run the cells from top to bottom. The required libraries can be installed directly in the notebook.
+
+### Running Locally
+
+If you prefer to run the project locally, clone the repository:
 
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
@@ -278,21 +288,17 @@ Install the required packages:
 pip install shap lime scikit-learn pandas matplotlib scipy joblib
 ```
 
-The notebook can also be run directly in **Google Colab** or another Jupyter environment.
-
 The project uses:
 
 ```text
 Python 3.12
 ```
 
-The notebook sets:
+For reproducibility, the notebook uses:
 
 ```text
 random_state = 42
 ```
-
-for reproducibility.
 
 ---
 

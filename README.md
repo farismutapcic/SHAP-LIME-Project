@@ -245,7 +245,7 @@ The app allows users to:
 
 **To open the deployed application:**
 
-[Open the SHAP vs LIME App]([YOUR_STREAMLIT_APP_LINK](https://farismutapcic-shap-lime-project-shap-lime-projectapp-ska8py.streamlit.app/))
+[Open the SHAP vs LIME App](https://farismutapcic-shap-lime-project-shap-lime-projectapp-ska8py.streamlit.app/)
 
 > Replace `YOUR_STREAMLIT_APP_LINK` with your actual Streamlit URL.
 

@@ -196,38 +196,6 @@ The project evaluates both Random Forest and Logistic Regression rather than rel
 
 ---
 
-## Repository layout
-
-```text
-├── notebooks/
-│   └── SHAP_vs_LIME_Project.ipynb
-│
-├── scripts/
-│   ├── 01_setup_model.py
-│   ├── 02_experiment_a.py
-│   ├── 03_experiment_b.py
-│   ├── 04_experiment_c.py
-│   ├── 05_experiment_d.py
-│   ├── 06_experiment_e_second_model.py
-│   └── 07_cost_vs_stability_scatter.py
-│
-├── utils.py
-├── model.joblib
-├── X_train.csv
-├── X_test.csv
-├── y_train.csv
-├── y_test.csv
-│
-├── experiment_a_results.csv
-├── experiment_b_results.csv
-├── experiment_c_results.csv
-│
-└── README.md
-```
-
-The notebook is designed to show the code for the standalone experiment scripts and then execute the tested functions directly, keeping the notebook and experiment implementations synchronized.
-
----
 
 ## The app
 

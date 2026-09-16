@@ -1,6 +1,6 @@
 # SHAP-LIME-Project
 
-# # How to Use the SHAP vs LIME Dashboard
+## How to Use the SHAP vs LIME Dashboard
 
 ## 1. Open the App
 

@@ -276,7 +276,7 @@ random_state = 42
 * Experiment D is qualitative and is **not clinical validation**.
 * Experiment A uses 50 test instances.
 * Experiment B uses 15 independent base instances with five perturbations per instance.
-* Experiment C uses 50 instances for TreeExplainer/LIME and 25 for KernelExplainer because KernelExplainer is slower.
+* Experiment C uses 50 instances for TreeExplainer/LIME and 25 for KernelExplainer because KernelExplainer is slower
 * Results may differ for other datasets, models, feature types, or experimental settings.
 
 ---
